@@ -1,0 +1,8 @@
+.custom-container{
+    padding: 10px;
+    position: relative;
+    -webkit-transition: 300ms ease all;
+    transition: 300ms ease all;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
